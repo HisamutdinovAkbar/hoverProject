@@ -1,0 +1,62 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    color: inherit;
+    list-style: none;
+    text-decoration: none;
+    font-family: "Mulish", serif;
+  }
+  
+.bor{
+    color: red;
+    background-color: green;
+    font-size: 40px;
+
+
+}
+
+
+
+.hg{
+    background-color: aliceblue;
+    border: 1px solid green;
+    border-radius: 20px;
+    padding: 20px;
+    margin-top: 50px;
+
+}
+
+.hg:hover{
+    background-color: blue;
+    color: red;
+}
+  
+
+
+.yg{
+    background-color: aliceblue;
+    border: 1px solid green;
+    border-radius: 20px;
+    padding: 20px;
+    margin-top: 50px;
+
+}
+.yg:active{
+    background-color: blue;
+    color: red;
+}
+  
+.yi{
+    background-color: aliceblue;
+    border: 1px solid green;
+    border-radius: 20px;
+    padding: 20px;
+    margin-top: 50px;
+
+}
+.yi:focus{
+    background-color: blue;
+    color: red;
+}
+  
